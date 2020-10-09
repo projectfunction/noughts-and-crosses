@@ -36,9 +36,7 @@ li {
 	grid-template-rows: repeat(3, 1fr);
 	grid-column-gap: 0;
 	grid-row-gap: 0;
-	align-items: center;
 	max-width:600px;
-
 	margin: 50px auto;
 }
 
@@ -47,7 +45,6 @@ li {
 	border: solid 5px white;
 	font-size: 100px;
 	display: flex;
-	align-items: center;
 	justify-content: center;
 }
 
